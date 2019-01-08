@@ -1,0 +1,37 @@
+Robotic Arm with Wireless Glove Control
+
+Things you'll need:
+
+2x Arduino Board (Nano)
+2x nRF24L01+ Transceiver
+2x nRF24L01+ Adapter
+5x MG996R Servo
+5x 4.5 Inch Flex Sensor
+5x 10k Resistor
+2x 18650 3.7V Battery
+1x 18650 Battery Holder
+1x String / Braid Line
+2x Mini Breadboard
+Jumper Wires
+Glove
+String / Braid Line
+Elastic Wire
+Access to a 3-D Printer
+
+Optional:
+Glue gun
+Cable Ties
+
+
+Getting Started:
+Follow the given link once you have all the required components along with the 3-D printed parts.
+
+How to Make Arduino Robot Hand? Wireless Controlled with Glove - Mert Arduino
+https://www.youtube.com/watch?v=uEd2B7fS8Eg 
+
+Estimated Cost of the Project is around: Rs.9870 ~ $140.7 (pretty cheap huh?)
+
+Check out other awesome tutorials by Mert Arduino:
+https://www.youtube.com/channel/UCAH7OfjndkAgtjkmJ6IQvEw
+
+Thanks to InMoov to provide us with the Sketches: http://inmoov.fr/
